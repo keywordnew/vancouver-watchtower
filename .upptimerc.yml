@@ -50,10 +50,3 @@ status-website:
       
 i18n:
   footer: This Watchtower is part of [Neighbourhood Cyber](https://github.com/$OWNER?tab=repositories&q=watchtower).
-  up: "Available"
-  degraded: "Degraded"
-  down: "Down"
-  allSystemsOperational: "Systemic issues unlikely"
-  degradedPerformance: "Degraded performance probable"
-  completeOutage: "Widespread issues probable"
-  partialOutage: "Partial outage probable"
