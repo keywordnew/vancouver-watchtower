@@ -47,3 +47,13 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Neighbourhoods
       href: https://github.com/$OWNER?tab=repositories&q=watchtower
+      
+i18n:
+  footer: This Watchtower is part of [Neighbourhood Cyber](https://github.com/$OWNER?tab=repositories&q=watchtower).
+  up: "🟩 Likely available"
+  degraded: "🟨 Possibly degraded"
+  down: "🟥 Possibly down"
+  allSystemsOperational: "🟩 Systemic issues unlikely"
+  degradedPerformance: "🟨 Degraded performance probable"
+  completeOutage: "🟥 Widespread issues probable"
+  partialOutage: "🟧 Partial outage probable"
