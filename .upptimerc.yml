@@ -1,31 +1,49 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: keywordnew
+repo: vancouver-watchtower
+user-agent: keywordnew
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: City of Vancouver
+    url: https://vancouver.ca/home-property-development/water-treatment.aspx
+    method: GET
+    icon: https://nilspace.xyz/content/images/2023/05/water.png
+  - name: British Columbia Hydro and Power Authority
+    url: https://www.bchydro.com/
+    method: GET
+    icon: https://nilspace.xyz/content/images/2023/05/power-1.png
+  - name: Telus Communications Inc
+    url: https://www.telus.com/en
+    method: GET
+    icon: https://nilspace.xyz/content/images/2023/05/communication.png
+  - name: Vancouver General Hospital
+    url: https://www.vch.ca/en/location/vancouver-general-hospital
+    method: GET
+    icon: https://nilspace.xyz/content/images/2023/05/hospital.png
+  - name: Vancouver Police Department
+    url: https://vpd.ca/report-a-crime/
+    method: GET
+    icon: https://nilspace.xyz/content/images/2023/05/emergency.png
+  - name: South Coast British Columbia Transportation Authority
+    url: https://www.translink.ca/
+    method: GET
+    icon: https://nilspace.xyz/content/images/2023/05/transportation-1.png
+  - name: Vancouver City Savings Credit Union
+    url: https://www.vancity.com/
+    method: GET
+    icon: https://nilspace.xyz/content/images/2023/05/payment.png
+
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  baseUrl: /vancouver-watchtower
+  name: 'Neighbourhood Cyber'
+  logoUrl: https://nilspace.xyz/content/images/2023/05/favicon.png
+  favicon: https://nilspace.xyz/content/images/2023/05/favicon.png
+  introTitle: 'Vancouver BC 🇨🇦 watchtower'
+  introMessage: 'check if critical infrastructure may be down, or use [GitHub ↗️](https://github.com/keywordnew/scaling-robot) to "Watch" and get notified'
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    - title: Neighbourhoods
+      href: https://github.com/$OWNER?tab=repositories&q=watchtower
