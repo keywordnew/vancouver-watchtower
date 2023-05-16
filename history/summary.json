@@ -112,19 +112,19 @@
     "url": "https://www.vancity.com/",
     "icon": "https://nilspace.xyz/content/images/2023/05/payment.png",
     "slug": "vancouver-city-savings-credit-union",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 525,
-    "timeDay": 551,
-    "timeWeek": 525,
-    "timeMonth": 525,
-    "timeYear": 525,
+    "status": "up",
+    "uptime": "99.68%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
+    "time": 475,
+    "timeDay": 439,
+    "timeWeek": 475,
+    "timeMonth": 475,
+    "timeYear": 475,
     "dailyMinutesDown": {
-      "2023-05-16": 0
+      "2023-05-16": 9
     }
   }
 ]
