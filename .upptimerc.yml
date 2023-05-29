@@ -39,7 +39,7 @@ status-website:
   logoUrl: https://nilspace.xyz/content/images/2023/05/favicon.png
   favicon: https://nilspace.xyz/content/images/2023/05/favicon.png
   introTitle: 'Vancouver BC 🇨🇦 watchtower'
-  introMessage: 'check if critical infrastructure may be down, or use [GitHub ↗️](https://github.com/$OWNER/$REPO) to "Watch" and get notified'
+  introMessage: 'check if critical infrastructure may be down, or use GitHub ↗️ to "Watch" and get notified'
   navbar:
     - title: Status
       href: /
