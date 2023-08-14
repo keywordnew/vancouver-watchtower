@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 544,
-    "timeDay": 453,
-    "timeWeek": 453,
-    "timeMonth": 453,
-    "timeYear": 544,
+    "time": 549,
+    "timeDay": 716,
+    "timeWeek": 585,
+    "timeMonth": 585,
+    "timeYear": 549,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 450,
-    "timeDay": 514,
-    "timeWeek": 514,
-    "timeMonth": 514,
-    "timeYear": 450,
+    "time": 456,
+    "timeDay": 673,
+    "timeWeek": 594,
+    "timeMonth": 594,
+    "timeYear": 456,
     "dailyMinutesDown": {}
   },
   {
@@ -40,18 +40,20 @@
     "url": "https://www.telus.com/en",
     "icon": "https://nilspace.xyz/content/images/2023/05/communication.png",
     "slug": "telus-communications-inc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2887,
-    "timeDay": 2481,
+    "timeDay": 0,
     "timeWeek": 2481,
     "timeMonth": 2481,
     "timeYear": 2887,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-14": 0
+    }
   },
   {
     "name": "Vancouver General Hospital",
@@ -59,19 +61,17 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/hospital.png",
     "slug": "vancouver-general-hospital",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 3064,
-    "timeDay": 2068,
-    "timeWeek": 2068,
-    "timeMonth": 2068,
-    "timeYear": 3064,
-    "dailyMinutesDown": {
-      "2023-05-17": 9
-    }
+    "uptimeYear": "100.00%",
+    "time": 3039,
+    "timeDay": 1850,
+    "timeWeek": 1959,
+    "timeMonth": 1959,
+    "timeYear": 3039,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Vancouver Police Department",
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 196,
-    "timeDay": 146,
-    "timeWeek": 146,
-    "timeMonth": 146,
-    "timeYear": 196,
+    "time": 195,
+    "timeDay": 162,
+    "timeWeek": 154,
+    "timeMonth": 154,
+    "timeYear": 195,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 332,
-    "timeDay": 89,
-    "timeWeek": 89,
-    "timeMonth": 89,
-    "timeYear": 332,
+    "time": 325,
+    "timeDay": 68,
+    "timeWeek": 79,
+    "timeMonth": 79,
+    "timeYear": 325,
     "dailyMinutesDown": {}
   },
   {
@@ -120,15 +120,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 467,
-    "timeDay": 404,
-    "timeWeek": 404,
-    "timeMonth": 404,
-    "timeYear": 467,
+    "time": 462,
+    "timeDay": 253,
+    "timeWeek": 329,
+    "timeMonth": 329,
+    "timeYear": 462,
     "dailyMinutesDown": {
       "2023-06-14": 18,
-      "2023-06-02": 17,
-      "2023-05-16": 9
+      "2023-06-02": 17
     }
   }
 ]
