@@ -40,9 +40,9 @@
     "url": "https://www.telus.com/en",
     "icon": "https://nilspace.xyz/content/images/2023/05/communication.png",
     "slug": "telus-communications-inc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 1775,
     "timeMonth": 1948,
     "timeYear": 2646,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-24": 0
+    }
   },
   {
     "name": "Vancouver General Hospital",
@@ -114,12 +116,12 @@
     "slug": "vancouver-city-savings-credit-union",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.91%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 439,
-    "timeDay": 251,
+    "timeDay": 219,
     "timeWeek": 327,
     "timeMonth": 337,
     "timeYear": 439,
