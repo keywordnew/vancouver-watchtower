@@ -60,19 +60,19 @@
     "url": "https://www.vch.ca/en/location/vancouver-general-hospital",
     "icon": "https://nilspace.xyz/content/images/2023/05/hospital.png",
     "slug": "vancouver-general-hospital",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2766,
-    "timeDay": 1703,
-    "timeWeek": 2394,
-    "timeMonth": 2492,
-    "timeYear": 2766,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 2764,
+    "timeDay": 1984,
+    "timeWeek": 2411,
+    "timeMonth": 2493,
+    "timeYear": 2764,
     "dailyMinutesDown": {
-      "2023-09-20": 0
+      "2023-09-20": 10
     }
   },
   {
