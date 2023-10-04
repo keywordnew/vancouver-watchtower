@@ -42,18 +42,20 @@
     "url": "https://www.telus.com/en",
     "icon": "https://nilspace.xyz/content/images/2023/05/communication.png",
     "slug": "telus-communications-inc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2361,
-    "timeDay": 2012,
-    "timeWeek": 2584,
-    "timeMonth": 2087,
-    "timeYear": 2361,
-    "dailyMinutesDown": {}
+    "time": 2357,
+    "timeDay": 2000,
+    "timeWeek": 2517,
+    "timeMonth": 2084,
+    "timeYear": 2357,
+    "dailyMinutesDown": {
+      "2023-10-04": 0
+    }
   },
   {
     "name": "Vancouver General Hospital",
