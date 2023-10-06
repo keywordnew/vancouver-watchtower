@@ -50,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 2366,
     "timeDay": 2282,
-    "timeWeek": 2374,
+    "timeWeek": 2404,
     "timeMonth": 2159,
     "timeYear": 2366,
     "dailyMinutesDown": {}
@@ -60,18 +60,20 @@
     "url": "https://www.vch.ca/en/location/vancouver-general-hospital",
     "icon": "https://nilspace.xyz/content/images/2023/05/hospital.png",
     "slug": "vancouver-general-hospital",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2744,
-    "timeDay": 2321,
-    "timeWeek": 2656,
-    "timeMonth": 2585,
+    "timeDay": 2571,
+    "timeWeek": 2677,
+    "timeMonth": 2592,
     "timeYear": 2744,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-06": 0
+    }
   },
   {
     "name": "Vancouver Police Department",
