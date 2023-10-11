@@ -50,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 2344,
     "timeDay": 2378,
-    "timeWeek": 2161,
+    "timeWeek": 2004,
     "timeMonth": 2203,
     "timeYear": 2344,
     "dailyMinutesDown": {}
@@ -116,9 +116,9 @@
     "url": "https://www.vancity.com/",
     "icon": "https://nilspace.xyz/content/images/2023/05/payment.png",
     "slug": "vancouver-city-savings-credit-union",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
@@ -128,6 +128,7 @@
     "timeMonth": 311,
     "timeYear": 381,
     "dailyMinutesDown": {
+      "2023-10-11": 0,
       "2023-10-04": 19,
       "2023-08-23": 16,
       "2023-06-14": 18,
