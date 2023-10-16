@@ -42,19 +42,19 @@
     "url": "https://www.telus.com/en",
     "icon": "https://nilspace.xyz/content/images/2023/05/communication.png",
     "slug": "telus-communications-inc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2329,
-    "timeDay": 1418,
-    "timeWeek": 2091,
-    "timeMonth": 2207,
-    "timeYear": 2329,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.32%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 2324,
+    "timeDay": 1530,
+    "timeWeek": 2053,
+    "timeMonth": 2195,
+    "timeYear": 2324,
     "dailyMinutesDown": {
-      "2023-10-16": 0
+      "2023-10-16": 24
     }
   },
   {
