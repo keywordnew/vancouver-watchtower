@@ -29,18 +29,16 @@
     "slug": "british-columbia-hydro-and-power-authority",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 408,
     "timeDay": 247,
     "timeWeek": 252,
     "timeMonth": 365,
     "timeYear": 408,
-    "dailyMinutesDown": {
-      "2024-02-08": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Telus Communications Inc",
