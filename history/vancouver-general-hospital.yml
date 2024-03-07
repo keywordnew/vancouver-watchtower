@@ -1,7 +1,7 @@
 url: https://www.vch.ca/en/location/vancouver-general-hospital
-status: down
-code: 503
-responseTime: 424
-lastUpdated: 2024-03-07T08:10:21.174Z
+status: up
+code: 200
+responseTime: 3396
+lastUpdated: 2024-03-07T08:21:33.185Z
 startTime: 2023-05-14T10:48:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
