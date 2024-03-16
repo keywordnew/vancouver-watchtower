@@ -4,7 +4,7 @@
     "url": "https://vancouver.ca/home-property-development/water-treatment.aspx",
     "icon": "https://nilspace.xyz/content/images/2023/05/water.png",
     "slug": "city-of-vancouver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "92.78%",
     "uptimeWeek": "98.97%",
@@ -13,7 +13,7 @@
     "time": 480,
     "timeDay": 624,
     "timeWeek": 608,
-    "timeMonth": 570,
+    "timeMonth": 564,
     "timeYear": 480,
     "dailyMinutesDown": {
       "2024-03-16": 104,
