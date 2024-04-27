@@ -32,19 +32,19 @@
     "url": "https://www.bchydro.com/",
     "icon": "https://nilspace.xyz/content/images/2023/05/power-1.png",
     "slug": "british-columbia-hydro-and-power-authority",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 389,
-    "timeDay": 424,
-    "timeWeek": 406,
-    "timeMonth": 394,
+    "timeDay": 384,
+    "timeWeek": 395,
+    "timeMonth": 391,
     "timeYear": 389,
     "dailyMinutesDown": {
-      "2024-04-27": 0
+      "2024-04-27": 22
     }
   },
   {
