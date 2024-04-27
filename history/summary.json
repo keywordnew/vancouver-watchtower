@@ -32,18 +32,20 @@
     "url": "https://www.bchydro.com/",
     "icon": "https://nilspace.xyz/content/images/2023/05/power-1.png",
     "slug": "british-columbia-hydro-and-power-authority",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 389,
-    "timeDay": 361,
-    "timeWeek": 394,
-    "timeMonth": 391,
+    "timeDay": 424,
+    "timeWeek": 406,
+    "timeMonth": 394,
     "timeYear": 389,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-27": 0
+    }
   },
   {
     "name": "Telus Communications Inc",
