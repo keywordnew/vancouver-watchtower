@@ -116,19 +116,19 @@
     "url": "https://vpd.ca/report-a-crime/",
     "icon": "https://nilspace.xyz/content/images/2023/05/emergency.png",
     "slug": "vancouver-police-department",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 288,
-    "timeDay": 103,
-    "timeWeek": 302,
-    "timeMonth": 329,
+    "timeDay": 256,
+    "timeWeek": 315,
+    "timeMonth": 331,
     "timeYear": 323,
     "dailyMinutesDown": {
-      "2025-09-22": 0
+      "2025-09-22": 15
     }
   },
   {
