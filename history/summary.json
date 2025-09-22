@@ -116,18 +116,20 @@
     "url": "https://vpd.ca/report-a-crime/",
     "icon": "https://nilspace.xyz/content/images/2023/05/emergency.png",
     "slug": "vancouver-police-department",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 287,
+    "time": 288,
     "timeDay": 103,
     "timeWeek": 302,
     "timeMonth": 329,
     "timeYear": 323,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-22": 0
+    }
   },
   {
     "name": "South Coast British Columbia Transportation Authority",
